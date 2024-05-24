@@ -1,0 +1,7 @@
+> My first project is to wuite a python script that will give me details of conetnts of a folder based on the filename, file type, date created, size and the same information about it's sub folders. 
+Outout will be in CSV for each folder. 
+
+> Good to say that the mission has been accomplished. 
+The python file is online and so is it's example output excel file. 
+
+I did this to manage my files and have their detials on hand without maually checkign all the folders/subfolders. 
