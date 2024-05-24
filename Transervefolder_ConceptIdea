@@ -1,4 +1,4 @@
-> My first project is to wuite a python script that will give me details of conetnts of a folder based on the filename, file type, date created, size and the same information about it's sub folders. 
+> My first project is to write a python script that will give me details of conetnts of a folder including their filename, file type, date created, size and the same information about it's sub folders. 
 Outout will be in CSV for each folder. 
 
 > Good to say that the mission has been accomplished. 
