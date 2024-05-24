@@ -1,3 +1,6 @@
+#Currently, the code gives a CSV output where it lists all the files int he root folder and it's subfolders with thier location, filename, date created, file type and file size.
+
+
 import os
 import datetime
 import pandas as pd
