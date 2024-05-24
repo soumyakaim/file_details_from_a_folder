@@ -1,5 +1,5 @@
 #Currently, the code gives a CSV output where it lists all the files int he root folder and it's subfolders with thier location, filename, date created, file type and file size.
-
+#Output file example: SelfStudy_file_info.xlsx #Please check the main page for it. 
 
 import os
 import datetime
